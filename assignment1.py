@@ -20,3 +20,10 @@ lengh = input("Enter length of cube")
 fom = enterLengthOfCube * enterLengthOfCube *enterLengthOfCube
 print("volume of cube" + str(fom))
 
+#surface area of circle
+enterRadiusOfCircle = 7
+radius = input"(Enter radius of circle )"
+PI = 3.142
+fom = 4/3 * PI * enterRadiusOfCircle * enterRadiusOfCircle * enterRadiusOfCircle 
+print("surface area of circle" + str(fom))
+
