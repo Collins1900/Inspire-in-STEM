@@ -9,13 +9,12 @@ https://www.bing.com/search?q=python+download+windows&form=WNSGPH&qs=AS&cvid=da4
 https://www.bing.com/search?q=vs+code+download+for+windows+10&form=WNSGPH&qs=AS&cvid=3361145e56b64f3da93320ed5446f957&pq=vs+code+do&cc=US&setlang=en-US&nclid=4E1E3F3F1D53AB07C2AE40562DECAE46&ts=1652862502451&wsso=Moderate
    add link to download git for windows
 https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c8aaf3ebec33fbdfb79&pq=git+dow&cc=US&setlang=en-US&nclid=4E1E3F3F1D53AB07C2AE40562DECAE46&ts=1652862539148&wsso=Moderate
-   [./images/lessonimage.png1.PNG]
-image.png
+ 
+ [./Images/Lesson1PNG]
+
+ 
    strings
-         replace()
-         strip()
-         slice()
-         format()
+         replace()sss
          upper()
          lower()
          len()
@@ -23,7 +22,7 @@ image.png
 
 
 ## Week 3: Introduction to robotics
-
+SsS
 ## Week 4: Javascript , css ,html
 
 ## Week 5 : Design thinking ,UX ,UI
