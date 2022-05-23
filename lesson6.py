@@ -24,7 +24,7 @@ popped_motocycles = motocycles.pop()
 #My name is Mojo Jojo and I own a motocycle plate number
 print(f"My name is {motocycles_owner} and I own a {motocycles[0]} plate number{plate_number[0]}")
 
-#removing an item from a list
+#removing an item from a list 
 #motocycles.remove('honda')
 #print(motocycles)
 

@@ -12,17 +12,32 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
  
  [./Images/Lesson1PNG]
 
- 
-   strings
-         replace()sss
-         upper()
-         lower()
-         len()
+   Day 2:Variables and Data Types
+         
+         Variable - memory allocation inside a computer
+                    e.g message = "Hello there"
+                        (variable)    (data)
+
+          Data types e.g  (1) numbers (integers)
+                          (2)  letters and words (strings) 
+
+   Day 3: String Methods                                  
+         strings :
+                  replace()
+                  upper()
+                  lower()
+                  len()
+
+   Day 4: Lists and Loops
+
+          (1)lists - [] , indices 
+          (2)working with lists - pop,del,append,remove
+          (3)loops
 ## Week 2: Electronics for innovators
 
 
 ## Week 3: Introduction to robotics
-SsS
+
 ## Week 4: Javascript , css ,html
 
 ## Week 5 : Design thinking ,UX ,UI
