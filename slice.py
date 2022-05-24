@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 city = "Nairobi"
 print(city[:5])
 print(city[2:])

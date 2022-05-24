@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 school= ['Joy','Hope','Mercy','Happy']
 pupil= ['Peace','Patience','Amani','Charity']
 #Hard ware

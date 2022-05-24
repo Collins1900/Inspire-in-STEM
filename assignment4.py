@@ -1,4 +1,13 @@
+#!/usr/bin/python
+
+########################
+#      Dictionaries
+#      Name : Collins Murimi
+#      Date : 24/5/2022
+#########################
+
 # Write a program to withdraw Ksh.25000 if acc_bal is between Ksh.100000 and 200000 
+
 # 30% if acc_bal is between 500000 and 1000000
 # Above 1000000 deduct 15000
 

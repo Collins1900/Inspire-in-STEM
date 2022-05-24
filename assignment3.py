@@ -1,6 +1,13 @@
-# Write a program that gets user input and adds Ksh.10000 to her account if she is between 25-30 years 
+#!/usr/bin/python
 
-             
+########################
+#      Dictionaries
+#      Name : Collins Murimi
+#      Date : 24/5/2022
+#########################
+
+ # Write a program that gets user input and adds Ksh.10000 to her account if she is between 25-30 years 
+  
 age = input("Enter age")   
 acc_bal = 0        
 

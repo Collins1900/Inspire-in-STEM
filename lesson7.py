@@ -30,9 +30,29 @@ student["school"] = "Nairobi School"
 
 #deleting item
 del student["school"]
-print(student)
+#print(student)
 
+  
+#print("*")
+#print("**")
+#print("****")
+#print("*****")
+#print("*******")
+#print("*********")
+#print("***********")
+#print("*************")
 
+#print("     *     ")
+#print("    ***     ")
+#print("   *****    ")
+#print("  *******   ")
+#print(" **********  ")
+#print("************  ")
 
-
-
+print("      *       ")
+print("     ***      ")
+print("    *****     ")
+print("   *******   ")
+print("    *****    ")
+print("     ***     ")
+print("      *       ")

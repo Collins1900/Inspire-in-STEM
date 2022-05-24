@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # lists
 #places = ['Nairobi', 'Kiambu', 'Nakuru']
 #people = ['John', 'Peter', 'Jane']

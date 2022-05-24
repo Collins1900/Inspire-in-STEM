@@ -34,8 +34,11 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
           (2)working with lists - pop,del,append,remove
           (3)loops
 ## Week 2: Electronics for innovators
-
-
+   Day 1 : lesson 7
+           Types of variables : (1)Camel case
+                                (2)Snake
+           Casting - converting from one data type to another
+           
 ## Week 3: Introduction to robotics
 
 ## Week 4: Javascript , css ,html

@@ -1,3 +1,7 @@
+#!/usr/bin/python
+
+
+
 # method
 # name = "Mathenge Mugo"
 name = "Ada Lovelace"
