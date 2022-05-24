@@ -13,7 +13,7 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
  [./Images/Lesson1PNG]
 
    Day 2:Variables and Data Types
-         
+         python assignment4.py
          Variable - memory allocation inside a computer
                     e.g message = "Hello there"
                         (variable)    (data)
