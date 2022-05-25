@@ -13,13 +13,13 @@
 
 acc_bal =  int(input("Enter your acc_balance:"))
 
-if (int(acc_bal) > 100000 and int(acc_bal) < 200000):
+if ((int(acc_bal)) > 100000 and int(acc_bal) < 200000):
     acc_bal = acc_bal - 25000
-    print("We have deducted Ksh.25000 from your account")
-elif (int(acc_bal) > 500000 and int(acc_bal)< 1000000):
-    acc_bal = acc_bal - (0.3*acc_bal)
+    print("We have deducted Ksh.25000 from your account\L")
+elif ((int(acc_bal)) > 500000 and int(acc_bal)< 1000000):
+    acc_bal = float(acc_bal) - (0.3*float(acc_bal))
     print("We have deducted 30 % from your account.")
-elif (int(acc_bal) > 1000000):
+elif ((int(acc_bal)) > 1000000):
     acc_bal = acc_bal - 15000
     print("We have deducted Ks.15000 from your account.")
 

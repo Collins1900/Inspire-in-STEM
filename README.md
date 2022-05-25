@@ -38,6 +38,26 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
            Types of variables : (1)Camel case
                                 (2)Snake
            Casting - converting from one data type to another
+
+   day 3 : #Git Commands
+           
+           git add* --- all files
+           git add lesson4.py --- single file
+           git commit -m "lesson on if ststements"
+           git branch -M main
+           git config -- global user.name="collinsmiriti@gmail.com"
+           git remote add
+           git push
+
+           #######
+           (1)What is a dictionary
+           (2)Syntax for dictionary
+           (3)define , add , remove
+           (4)Looping over dictionaries
+           (5)dictionary in dictionary
+              list in dictionary
+              dictionary in list
+
            
 ## Week 3: Introduction to robotics
 
