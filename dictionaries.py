@@ -28,3 +28,7 @@ print(person)
 #Looping over dictionaries
 for key,value in person.items():
     print(f"{key} : {value}")
+
+#Using get to acess the value in a dictionary
+print(person.get['phone'])
+
