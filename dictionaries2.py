@@ -5,3 +5,4 @@ food ={
        'mary':['beef','chicken','vegetables']
        'jane':['rice','ugali','potatoes']
 }
+for key value in 
