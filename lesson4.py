@@ -1,5 +1,12 @@
 #!/usr/bin/python
 
+########################
+#      Integers
+#      Name : Collins Murimi
+#      Date : 17/5/2022
+#########################
+
+
 #integers
 
 

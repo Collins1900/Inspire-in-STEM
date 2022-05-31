@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+########################
+#      Strings and multiple strings
+#      Name : Collins Murimi
+#      Date : 18/5/2022
+#########################
 
 
 # method

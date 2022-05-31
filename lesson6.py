@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+########################
+#      Lists and indices
+#      Name : Collins Murimi
+#      Date : 19/5/2022
+#########################
 
 
 # Learning about lists

@@ -32,3 +32,5 @@ for key,value in person.items():
 #Using get to acess the value in a dictionary
 print(person.get['phone'])
 
+
+
