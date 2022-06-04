@@ -32,5 +32,5 @@ msg = """ QRST126XDG MPESA confirmed
             18th May 2022
             Safaricom transparent for you
             """
- print(msg)    
- txt = """   
+print(msg)    
+txt =""

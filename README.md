@@ -1,4 +1,4 @@
-### Inspire Youth in STEM
+### INSPIRE YOUTH IN STEM
 
 ## Week 1: Introduction to python
    Day 1 : Installing python
@@ -38,9 +38,29 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
            Types of variables : (1)Camel case
                                 (2)Snake
            Casting - converting from one data type to another
+                 e.g fuel = 17.21
+                     new fuel = int(fuel) -- decimal trancated
 
-   day 3 : #Git Commands
-           
+                        str(name)
+                        float(____)
+
+            Multiplication table
+            Square of numbers
+            Initializing a dictionary
+            Empty dictionary
+            Loops
+            
+   Day 2: Lesson 8, Assignment 4
+
+      Writing programs to withdraw and deposit money
+      Empty lists
+      Printing squares,cubes,sum
+
+   Day 3 : Assignment5, #Git Commands
+         
+           # Dictionaries
+             Dictionaries(python) use {} not []
+                dictionary[key] = 'value'
            git add* --- all files
            git add lesson4.py --- single file
            git commit -m "lesson on if ststements"
@@ -58,8 +78,53 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
               list in dictionary
               dictionary in list
 
-           
+   Day 4 : Lesson 9
+           # Loops (1) for loops
+                   (2) while loops
+
+           # Conditions 
+             (if) condition
+
+           # Operations : <-  less than
+                          <=  less equal
+                          >-  greater than
+                          >=  greater equal
+                          ==  assignment
+                          %   modulus
+
 ## Week 3: Introduction to robotics
+ 
+   Day 1 : #Review on dictionaries 
+           #Divisibility of numbers 
+           #Writing a program to print numbers in reverse
+           
+
+   Day 2 : #Tuples 
+           #Mutable and Immutable 
+           #Functions
+           #Function Parameters
+           #Quadratic equation
+               y1 = -b + math.sqrt((b*2) - 4*a*c)/2*a
+               y2 = -b - math.sqrt((b*2) - 4*a*c)/2*a
+
+   Day 3 : PUBLIC HOLIDAY
+
+   Day 4 : (1)Classes
+           
+           (2)Objects
+
+   Day 5 : #Function - block of code 
+           
+           #Functions file
+            *Using default parameters
+            *Return from a file
+            *Square of numbers
+            *Returning a dictionary from a function
+            *Parsing a list in a function
+
+            #Revision on classes 
+            
+            ##### PROJECTS #####
 
 ## Week 4: Javascript , css ,html
 

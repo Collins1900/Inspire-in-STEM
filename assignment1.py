@@ -1,3 +1,11 @@
+#!/usr/bin/python
+
+########################
+#      Volume and area of different figures
+#      Name : Collins Murimi
+#      
+#########################
+
 #area of a circle
 enterRadiusOfCircle = 24
 radius = input("Enter the radius of circle")
@@ -20,10 +28,10 @@ lengh = input("Enter length of cube")
 fom = enterLengthOfCube * enterLengthOfCube *enterLengthOfCube
 print("volume of cube" + str(fom))
 
-#surface area of circle
+#surface area of sphere 
 enterRadiusOfCircle = 7
 radius = input"(Enter radius of circle )"
 PI = 3.142
 fom = 4/3 * PI * enterRadiusOfCircle * enterRadiusOfCircle * enterRadiusOfCircle 
-print("surface area of circle" + str(fom))
+print("surface area of a sphere " + str(fom))
 
