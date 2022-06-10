@@ -127,6 +127,8 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
             ##### PROJECTS #####
 
 ## Week 4: Javascript , css ,html
+   Day 3 : Project on digital clock
+
 
 ## Week 5 : Design thinking ,UX ,UI
 
