@@ -10,7 +10,7 @@ https://www.bing.com/search?q=vs+code+download+for+windows+10&form=WNSGPH&qs=AS&
    add link to download git for windows
 https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c8aaf3ebec33fbdfb79&pq=git+dow&cc=US&setlang=en-US&nclid=4E1E3F3F1D53AB07C2AE40562DECAE46&ts=1652862539148&wsso=Moderate
  
- [./Images/Lesson1PNG]
+[lesson1](./Images/Lesson1.png)
 
    Day 2:Variables and Data Types
          python assignment4.py
@@ -127,13 +127,30 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
             ##### PROJECTS #####
 
 ## Week 4: Javascript , css ,html
-   Day 3 : Project on digital clock
-
-
-
    
+   Day 1 : #Lesson on Classes
+           
+           ### students.py ###
+           ### teachers.py ###
+
+     
 
 
+   Day 3 : #Project on digital clock
+
+           #Project on analogue clock
+
+   Day 4 : 
+
+
+
+   Day 5 : # Scraping.py
+             Learnt about scraping
+![scraping](./image/scraping.png)
+
+            #Installation of ### bs4 ###
+
+             
 ## Week 5 : Design thinking ,UX ,UI
 
 ## Week 6: Pitch competition, campus tour
