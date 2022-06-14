@@ -1,3 +1,11 @@
+#!/usr/bin/python
+
+########################
+#      Password Generator
+#      Name : Collins Murimi
+#      Date : 5/6/2022
+#########################
+
 import random
 
 print("Welcome to our password generator")

@@ -28,6 +28,8 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
                   lower()
                   len()
 
+![strings](./image/strings.png)
+
    Day 4: Lists and Loops
 
           (1)lists - [] , indices 
@@ -53,12 +55,15 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
    Day 2: Lesson 8, Assignment 4
 
       Writing programs to withdraw and deposit money
+![withdrawal](./image/withdrawal.png)
       Empty lists
+
       Printing squares,cubes,sum
 
    Day 3 : Assignment5, #Git Commands
          
            # Dictionaries
+![dictionaries](./image/dictionaries.png)
              Dictionaries(python) use {} not []
                 dictionary[key] = 'value'
            git add* --- all files
@@ -100,6 +105,7 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
            
 
    Day 2 : #Tuples 
+
 ![tuples.py](./image/tuples.py.png)
 
            #Mutable and Immutable 
@@ -110,6 +116,10 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
                y2 = -b - math.sqrt((b*2) - 4*a*c)/2*a
 
    Day 3 : PUBLIC HOLIDAY
+
+    # GEOMETRIC PROGRESSION
+
+![geometric_progression](./image/geometric_progression.png)
 
    Day 4 : (1)Classes
            
@@ -138,7 +148,9 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
            ### teachers.py ###
 ![teachers.py](./image/teachers.py.png)
      
+   Day 2 : Project on Password Generator
 
+![password_generator](./image/password_generator.png)
 
    Day 3 : #Project on digital clock
 ![digital_clock](./image/digital_clock.png)
@@ -146,7 +158,9 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
 ![analogue_clock](./image/analogue_clock.png)
    Day 4 : 
 
+   # WEATHER APP
 
+![weather_app](./image/weather_app.png)
 
    Day 5 : # Scraping.py
              Learnt about scraping
