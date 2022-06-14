@@ -1,3 +1,11 @@
+#!/usr/bin/python
+
+########################
+#      Analogue Clock
+#      Name : Collins Murimi
+#      Date : 9/6/2022
+#########################
+
 class Clock(object):
     def __init__(self):
         self._hours = 0

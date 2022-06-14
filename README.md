@@ -81,7 +81,7 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
    Day 4 : Lesson 9
            # Loops (1) for loops
                    (2) while loops
-
+![loops](./image/loops.png)
            # Conditions 
              (if) condition
 
@@ -100,6 +100,8 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
            
 
    Day 2 : #Tuples 
+![tuples.py](./image/tuples.py.png)
+
            #Mutable and Immutable 
            #Functions
            #Function Parameters
@@ -131,15 +133,17 @@ https://www.bing.com/search?q=git+download&form=WNSGPH&qs=AS&cvid=bf11c1302f6f4c
    Day 1 : #Lesson on Classes
            
            ### students.py ###
-           ### teachers.py ###
+![students.py](./image/students.py.png)
 
+           ### teachers.py ###
+![teachers.py](./image/teachers.py.png)
      
 
 
    Day 3 : #Project on digital clock
-
+![digital_clock](./image/digital_clock.png)
            #Project on analogue clock
-
+![analogue_clock](./image/analogue_clock.png)
    Day 4 : 
 
 
